@@ -38,27 +38,27 @@ Challenge progress:
 - [x] Sinatra: Start and Restart
 - [x] Sinatra: Returning HTML
 - [x] Checkpoint: HTTP part II
-- [] Sinatra: Views
-- [] Sinatra: erb
-- [] Sinatra: Keeping views clean
-- [] Sinatra: Introducing params
-- [] Sinatra: Using forms
-- [] Sinatra: POSTed params
-- [] Sinatra: using the Chrome DevTools
-- [] Testing with an Automated Browser and Capybara
-- [] Checkpoint: Web Applications
-- [] Getting Started with Battle
-- [] Getting test infrastructure set up
-- [] Entering Players
-- [] POST/redirect/GET pattern
-- [] Viewing hit points
-- [] Test Helpers
-- [] Attacking Player 2
-- [] Extracting Logic to the Model
-- [] Implementing Hit Points
-- [] Single Responsibility Principle, anyone?
-- [] Skinny Controllers
-- [] Switching Turns
-- [] Multiplayer
-- [] Losing and Winning
-- [] Killing the Global Variable
+- [ ] Sinatra: Views
+- [ ] Sinatra: erb
+- [ ] Sinatra: Keeping views clean
+- [ ] Sinatra: Introducing params
+- [ ] Sinatra: Using forms
+- [ ] Sinatra: POSTed params
+- [ ] Sinatra: using the Chrome DevTools
+- [ ] Testing with an Automated Browser and Capybara
+- [ ] Checkpoint: Web Applications
+- [ ] Getting Started with Battle
+- [ ] Getting test infrastructure set up
+- [ ] Entering Players
+- [ ] POST/redirect/GET pattern
+- [ ] Viewing hit points
+- [ ] Test Helpers
+- [ ] Attacking Player 2
+- [ ] Extracting Logic to the Model
+- [ ] Implementing Hit Points
+- [ ] Single Responsibility Principle, anyone?
+- [ ] Skinny Controllers
+- [ ] Switching Turns
+- [ ] Multiplayer
+- [ ] Losing and Winning
+- [ ] Killing the Global Variable
