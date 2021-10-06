@@ -43,7 +43,7 @@ Challenge progress:
 - [x] Sinatra: Keeping views clean
 - [x] Sinatra: Introducing params
 - [x] Sinatra: Using forms
-- [ ] Sinatra: POSTed params
+- [x] Sinatra: POSTed params
 - [ ] Sinatra: using the Chrome DevTools
 - [ ] Testing with an Automated Browser and Capybara
 - [ ] Checkpoint: Web Applications
