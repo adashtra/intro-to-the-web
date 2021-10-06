@@ -38,10 +38,10 @@ Challenge progress:
 - [x] Sinatra: Start and Restart
 - [x] Sinatra: Returning HTML
 - [x] Checkpoint: HTTP part II
-- [ ] Sinatra: Views
-- [ ] Sinatra: erb
-- [ ] Sinatra: Keeping views clean
-- [ ] Sinatra: Introducing params
+- [x] Sinatra: Views
+- [x] Sinatra: erb
+- [x] Sinatra: Keeping views clean
+- [x] Sinatra: Introducing params
 - [ ] Sinatra: Using forms
 - [ ] Sinatra: POSTed params
 - [ ] Sinatra: using the Chrome DevTools
