@@ -42,7 +42,7 @@ Challenge progress:
 - [x] Sinatra: erb
 - [x] Sinatra: Keeping views clean
 - [x] Sinatra: Introducing params
-- [ ] Sinatra: Using forms
+- [x] Sinatra: Using forms
 - [ ] Sinatra: POSTed params
 - [ ] Sinatra: using the Chrome DevTools
 - [ ] Testing with an Automated Browser and Capybara
