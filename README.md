@@ -25,6 +25,24 @@ How to run:
 4. To shut down the server, use ``CTRL + C`` in the terminal
 
 ---
+
+How to use Capybara in Pry:
+---
+- Make sure the server is shut down first
+- Run ``pry`` from the terminal
+- Enter the following commands:
+  - ``require ‘capybara’``
+  - ``require ‘capybara/dsl’``
+  - ``require ‘selenium-webdriver’``
+  - ``include Capybara::DSL``
+  - ``Capybara.default_driver = :selenium``
+- Open a second terminal window and run ``ruby app.rb`` to start server again
+- In pry, run ``visit 'http://localhost:4567/'`` - it should launch in a new Firefox window
+- Refer to the [Capybara cheatsheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf) and run commands in Pry
+
+
+
+---
 Challenge progress:
 ---
 
@@ -44,9 +62,9 @@ Challenge progress:
 - [x] Sinatra: Introducing params
 - [x] Sinatra: Using forms
 - [x] Sinatra: POSTed params
-- [ ] Sinatra: using the Chrome DevTools
-- [ ] Testing with an Automated Browser and Capybara
-- [ ] Checkpoint: Web Applications
+- [x] Sinatra: using the Chrome DevTools
+- [x] Testing with an Automated Browser and Capybara
+- [x] Checkpoint: Web Applications
 - [ ] Getting Started with Battle
 - [ ] Getting test infrastructure set up
 - [ ] Entering Players

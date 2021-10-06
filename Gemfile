@@ -10,4 +10,7 @@ group :development do
   gem "sinatra"
   gem "webrick"
   gem "sinatra-contrib"
+  gem "capybara"
+  gem "selenium-webdriver"
+  gem "geckodriver-helper"
 end
