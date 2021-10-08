@@ -1,7 +1,7 @@
 Gems required:
 ---
 - Sinatra | ``gem install sintara``
-- WEBrick for Ruby !> 3.0.0 | ``gem install webrick``
+- WEBrick for Ruby >= 3.0.0 | ``gem install webrick``
 - Sinatra Reloader (optional) | ``gem install sinatra-contrib``
 
 To create a Gemfile run: ``bundle init`` and edit the Gemfile's dependencies, for example:
@@ -65,18 +65,3 @@ Challenge progress:
 - [x] Sinatra: using the Chrome DevTools
 - [x] Testing with an Automated Browser and Capybara
 - [x] Checkpoint: Web Applications
-- [ ] Getting Started with Battle
-- [ ] Getting test infrastructure set up
-- [ ] Entering Players
-- [ ] POST/redirect/GET pattern
-- [ ] Viewing hit points
-- [ ] Test Helpers
-- [ ] Attacking Player 2
-- [ ] Extracting Logic to the Model
-- [ ] Implementing Hit Points
-- [ ] Single Responsibility Principle, anyone?
-- [ ] Skinny Controllers
-- [ ] Switching Turns
-- [ ] Multiplayer
-- [ ] Losing and Winning
-- [ ] Killing the Global Variable
